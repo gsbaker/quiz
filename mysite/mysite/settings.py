@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = 'b-@zkmhnd%$x4!a1=xua+f*cv=szg$q=9gnx-pgz09xq89v)i3'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['localhost', '167.172.54.199', 'quiz.gsbaker.uk']
 
